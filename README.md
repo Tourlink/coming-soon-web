@@ -40,7 +40,7 @@ Tourlingo 是一个 AI 驱动的下一代旅行指南 Web 应用，旨在为用�
 3. 在本地项目根目录打开终端，依次输入：
    ```bash
    git init
-   git remote add origin https://github.com/你的用户名/tourlingo-web.git
+   git remote add origin https://github.com/Tourlink/coming-soon-web.git
    git add .
    git commit -m "init"
    git push -u origin master
